@@ -1,0 +1,45 @@
+Frontier: AYA LIM 
+Reached: ICA AYA LIM 
+-------------------
+Frontier: AYA ANC JUN PAS 
+Reached: ICA AYA LIM ANC JUN PAS 
+-------------------
+Frontier: AYA ANC JUN UCA 
+Reached: ICA AYA LIM ANC JUN PAS UCA 
+-------------------
+Frontier: AYA ANC JUN 
+Reached: ICA AYA LIM ANC JUN PAS UCA 
+-------------------
+Frontier: AYA ANC LOR 
+Reached: ICA AYA LIM ANC JUN PAS UCA LOR 
+-------------------
+Frontier: AYA ANC AMA 
+Reached: ICA AYA LIM ANC JUN PAS UCA LOR AMA 
+-------------------
+Frontier: AYA ANC 
+Reached: ICA AYA LIM ANC JUN PAS UCA LOR AMA 
+-------------------
+Frontier: AYA SMA 
+Reached: ICA AYA LIM ANC JUN PAS UCA LOR AMA SMA 
+-------------------
+Frontier: AYA 
+Reached: ICA AYA LIM ANC JUN PAS UCA LOR AMA SMA 
+-------------------
+Frontier: LLI AQP 
+Reached: ICA AYA LIM ANC JUN PAS UCA LOR AMA SMA LLI AQP 
+-------------------
+Frontier: LLI CUS 
+Reached: ICA AYA LIM ANC JUN PAS UCA LOR AMA SMA LLI AQP CUS 
+-------------------
+Frontier: LLI 
+Reached: ICA AYA LIM ANC JUN PAS UCA LOR AMA SMA LLI AQP CUS 
+-------------------
+Frontier: LAM CAJ 
+Reached: ICA AYA LIM ANC JUN PAS UCA LOR AMA SMA LLI AQP CUS LAM CAJ 
+-------------------
+Frontier: LAM 
+Reached: ICA AYA LIM ANC JUN PAS UCA LOR AMA SMA LLI AQP CUS LAM CAJ 
+-------------------
+Frontier: 
+Reached: ICA AYA LIM ANC JUN PAS UCA LOR AMA SMA LLI AQP CUS LAM CAJ 
+-------------------

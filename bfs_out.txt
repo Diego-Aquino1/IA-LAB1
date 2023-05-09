@@ -1,0 +1,90 @@
+Frontier: AYA LIM 
+Reached: ICA AYA LIM 
+-------------------
+Frontier: LIM LLI AQP 
+Reached: ICA AYA LIM LLI AQP 
+-------------------
+Frontier: LLI AQP ANC JUN PAS 
+Reached: ICA AYA LIM LLI AQP ANC JUN PAS 
+-------------------
+Frontier: AQP ANC JUN PAS LAM CAJ 
+Reached: ICA AYA LIM LLI AQP ANC JUN PAS LAM CAJ 
+-------------------
+Frontier: ANC JUN PAS LAM CAJ CUS 
+Reached: ICA AYA LIM LLI AQP ANC JUN PAS LAM CAJ CUS 
+-------------------
+Frontier: JUN PAS LAM CAJ CUS SMA 
+Reached: ICA AYA LIM LLI AQP ANC JUN PAS LAM CAJ CUS SMA 
+-------------------
+Frontier: PAS LAM CAJ CUS SMA LOR 
+Reached: ICA AYA LIM LLI AQP ANC JUN PAS LAM CAJ CUS SMA LOR 
+-------------------
+Frontier: LAM CAJ CUS SMA LOR UCA 
+Reached: ICA AYA LIM LLI AQP ANC JUN PAS LAM CAJ CUS SMA LOR UCA 
+-------------------
+Frontier: CAJ CUS SMA LOR UCA 
+Reached: ICA AYA LIM LLI AQP ANC JUN PAS LAM CAJ CUS SMA LOR UCA 
+-------------------
+Frontier: CUS SMA LOR UCA 
+Reached: ICA AYA LIM LLI AQP ANC JUN PAS LAM CAJ CUS SMA LOR UCA 
+-------------------
+Frontier: SMA LOR UCA 
+Reached: ICA AYA LIM LLI AQP ANC JUN PAS LAM CAJ CUS SMA LOR UCA 
+-------------------
+Frontier: LOR UCA 
+Reached: ICA AYA LIM LLI AQP ANC JUN PAS LAM CAJ CUS SMA LOR UCA 
+-------------------
+Frontier: UCA AMA 
+Reached: ICA AYA LIM LLI AQP ANC JUN PAS LAM CAJ CUS SMA LOR UCA AMA 
+-------------------
+Frontier: AMA 
+Reached: ICA AYA LIM LLI AQP ANC JUN PAS LAM CAJ CUS SMA LOR UCA AMA 
+-------------------
+Frontier: 
+Reached: ICA AYA LIM LLI AQP ANC JUN PAS LAM CAJ CUS SMA LOR UCA AMA 
+-------------------
+Frontier: AYA LIM 
+Reached: ICA AYA LIM 
+-------------------
+Frontier: LIM LLI AQP 
+Reached: ICA AYA LIM LLI AQP 
+-------------------
+Frontier: LLI AQP ANC JUN PAS 
+Reached: ICA AYA LIM LLI AQP ANC JUN PAS 
+-------------------
+Frontier: AQP ANC JUN PAS LAM CAJ 
+Reached: ICA AYA LIM LLI AQP ANC JUN PAS LAM CAJ 
+-------------------
+Frontier: ANC JUN PAS LAM CAJ CUS 
+Reached: ICA AYA LIM LLI AQP ANC JUN PAS LAM CAJ CUS 
+-------------------
+Frontier: JUN PAS LAM CAJ CUS SMA 
+Reached: ICA AYA LIM LLI AQP ANC JUN PAS LAM CAJ CUS SMA 
+-------------------
+Frontier: PAS LAM CAJ CUS SMA LOR 
+Reached: ICA AYA LIM LLI AQP ANC JUN PAS LAM CAJ CUS SMA LOR 
+-------------------
+Frontier: LAM CAJ CUS SMA LOR UCA 
+Reached: ICA AYA LIM LLI AQP ANC JUN PAS LAM CAJ CUS SMA LOR UCA 
+-------------------
+Frontier: CAJ CUS SMA LOR UCA 
+Reached: ICA AYA LIM LLI AQP ANC JUN PAS LAM CAJ CUS SMA LOR UCA 
+-------------------
+Frontier: CUS SMA LOR UCA 
+Reached: ICA AYA LIM LLI AQP ANC JUN PAS LAM CAJ CUS SMA LOR UCA 
+-------------------
+Frontier: SMA LOR UCA 
+Reached: ICA AYA LIM LLI AQP ANC JUN PAS LAM CAJ CUS SMA LOR UCA 
+-------------------
+Frontier: LOR UCA 
+Reached: ICA AYA LIM LLI AQP ANC JUN PAS LAM CAJ CUS SMA LOR UCA 
+-------------------
+Frontier: UCA AMA 
+Reached: ICA AYA LIM LLI AQP ANC JUN PAS LAM CAJ CUS SMA LOR UCA AMA 
+-------------------
+Frontier: AMA 
+Reached: ICA AYA LIM LLI AQP ANC JUN PAS LAM CAJ CUS SMA LOR UCA AMA 
+-------------------
+Frontier: 
+Reached: ICA AYA LIM LLI AQP ANC JUN PAS LAM CAJ CUS SMA LOR UCA AMA 
+-------------------
